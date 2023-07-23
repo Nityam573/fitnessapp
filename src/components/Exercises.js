@@ -24,6 +24,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
     };
 
     fetchExercisesData();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [bodyPart]);
 
   // Pagination

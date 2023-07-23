@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Button, Stack, Typography } from '@mui/material';
+import { Box, Button, Typography } from '@mui/material';
 
 import BannerImage from '../assets/images/banner1.jpg';
 

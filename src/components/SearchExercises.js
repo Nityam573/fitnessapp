@@ -32,7 +32,7 @@ const SearchExercises = ({setExercises,bodyPart,setBodyPart }) => {
     }
   }
   return (
-    <Stack alignItems='center' mt='30px' justifyContent='center' p='20px'>
+    <Stack alignItems='center' mt='30px' justifyContent='center' p={20}>
       <Typography fontWeight='bold'sx={{fontSize:{lg:'45px',xs:'30px'}}} mb="50px" textAlign="center">
         Awesome Exercises <br />You Should Know
       </Typography>
